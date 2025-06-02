@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": "post_001",
+      "user_id": "user_123",
+      "user_name": "zoro",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXivHD7EtJYlTe1CIXcMSA9i6GEbQ7ltT3g&s",
+      "caption": "Chilling by the beach 🏖️",
+      "location": "Goa, India",
+      "created_at": "2025-05-17T14:20:00Z",
+      "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Dressrosa-arc.jpg?q=70&fit=contain&w=1200&h=628&dpr=1",
+      "likes": "147k",
+      "comments": "luffy defected doflamingo"
+    },
+    {
+      "id": "post_002",
+      "user_id": "user_456",
+      "user_name": "luffy",
+      "image_url": "https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/anime-17_63864270341467.4.jpg",
+      "caption": "Morning coffee vibes ☕",
+      "location": "Paris, France",
+      "created_at": "2025-05-18T08:10:00Z",
+      "img": "https://i.pinimg.com/736x/e8/7a/6e/e87a6e822158f91622195f1747b0a3d3.jpg",
+      "likes": "500k",
+      "comments": " i have no enemies"
+    },
+    {
+      "id": "post_003",
+      "user_id": "user_496",
+      "user_name": "sanji",
+      "image_url": "https://i.pinimg.com/736x/93/cf/b7/93cfb768332217a619f1582fb4def0a2.jpg",
+      "caption": "Morning coffee vibes ☕",
+      "location": "Paris, France",
+      "created_at": "2025-05-18T08:10:50Z",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5X-Z1v3VZNzqaMjcCHHvYSuXPbVP0mPRWiw&s",
+      "likes": "1m",
+      "comments": " luffy gear 5 was awsome"
+    }
+  ],
+  "profil": {
+    "user_id": "user_123",
+    "user_name": "luffy and zoro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXivHD7EtJYlTe1CIXcMSA9i6GEbQ7ltT3g&s",
+    "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXivHD7EtJYlTe1CIXcMSA9i6GEbQ7ltT3g&ss"
+  },
+  "sugestion": [
+    {
+      "id": "post_001",
+      "user_name": "zoro",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXivHD7EtJYlTe1CIXcMSA9i6GEbQ7ltT3g&s"
+    },
+    {
+      "id": "post_002",
+      "user_name": "luffy",
+      "image_url": "https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/anime-17_63864270341467.4.jpg"
+    },
+    {
+      "id": "post_003",
+      "user_id": "user_496",
+      "user_name": "sanji",
+      "image_url": "https://i.pinimg.com/736x/93/cf/b7/93cfb768332217a619f1582fb4def0a2.jpg"
+    },
+    {
+      "id": "post_004",
+      "user_id": "user_999",
+      "user_name": "thorfin",
+      "image_url": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "post_005",
+      "user_id": "user_777",
+      "user_name": "shanks",
+      "image_url": "https://i.pinimg.com/736x/ae/04/88/ae048892a6f35cb1467f0b6f08fb50ad.jpg"
+    },
+    {
+      "id": "post_006",
+      "user_id": "user_333",
+      "user_name": "draken",
+      "image_url": "https://images7.alphacoders.com/115/1155001.jpg"
+    },
+    {
+      "id": "post_007",
+      "user_id": "user_111",
+      "user_name": "joyboy",
+      "image_url": "https://w0.peakpx.com/wallpaper/909/368/HD-wallpaper-monkey-d-luffy-anime-white-hair-one-piece-sun-god-nika-gear-5th-resolution-thumbnail.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user_id": "user_123",
+      "user_name": "zoro",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXivHD7EtJYlTe1CIXcMSA9i6GEbQ7ltT3g&s",
+      "img": "https://i.pinimg.com/736x/13/77/2d/13772d6307b62399464074e7b4869784.jpg"
+    },
+    {
+      "id": "2",
+      "user_id": "user_456",
+      "user_name": "sukuna",
+      "image_url": "https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/anime-17_63864270341467.4.jpg",
+      "img": "https://i.pinimg.com/736x/a4/58/71/a458717bccd94faf48f57c82c263cb54.jpg"
+    },
+    {
+      "id": "3",
+      "user_id": "user_496",
+      "user_name": "luffy",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5X-Z1v3VZNzqaMjcCHHvYSuXPbVP0mPRWiw&s",
+      "img": "https://i.pinimg.com/736x/93/cf/b7/93cfb768332217a619f1582fb4def0a2.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "post_002",
+      "user_name": "luffy"
+    },
+    {
+      "id": "post_004",
+      "user_name": "thorfin"
+    },
+    {
+      "id": "post_001",
+      "user_name": "zoro"
+    },
+    {
+      "id": "post_001",
+      "user_name": "zoro"
+    }
+  ]
+}
